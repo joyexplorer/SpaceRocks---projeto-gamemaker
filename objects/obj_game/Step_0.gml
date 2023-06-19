@@ -22,3 +22,7 @@ if(keyboard_check_pressed(vk_enter)){
         audio_play_sound(snd_lose, 1, false);
     }
 }
+
+if( keyboard_check_pressed(vk_escape) ){
+	game_end();	
+}

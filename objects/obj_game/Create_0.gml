@@ -1,3 +1,5 @@
+window_set_fullscreen(true);
+
 score = 0;
 lives = 3;
 

@@ -1,5 +1,5 @@
 tempo++
-show_debug_message(tempo);
+//show_debug_message(tempo);
 if(!point_in_rectangle(x, y,
     global.cameraX, global.cameraY,
     global.cameraX + global.cameraWidth,
